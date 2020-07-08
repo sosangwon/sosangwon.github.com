@@ -5,7 +5,7 @@
 //  helvetica, roboto, noto, "segoe ui", arial, sans-serif !default;
 
 body {
-  font-family: "Nanum Gothic Coding" !default;
+  font-family: "Nanum Gothic Coding" !important;
   font-size: inherit;
   line-height: $body-line-height;
   color: $body-text-color;
