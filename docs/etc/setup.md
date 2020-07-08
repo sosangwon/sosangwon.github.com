@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Setup jekyll
-# nav_order: 2
+nav_order: 2
 # has_children: true
-parent: etc index
+parent: Etc
 ---
 
 # Goals
