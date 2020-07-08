@@ -1,7 +1,7 @@
 
-title: "sosangwon"
+title: "sosangwon1"
 remote_theme: pmarsceill/just-the-docs
-color_scheme: c1
+color_scheme: foo
 
 search_enabled: true
 search:
