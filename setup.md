@@ -1,3 +1,9 @@
+---
+layout: default
+title: Setup jekyll
+# nav_order: 2
+has_children: true
+---
 # Goals
 * Seting up jekyll
 * Apply to theme
