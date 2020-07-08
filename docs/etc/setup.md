@@ -87,6 +87,10 @@ Engineering
 - `just the dosc` repository의 theme를 그대로 사용하기 때문에 local에 따로 환경을 구성할 필요가 없음. Install 없음.  
 
 
+
+
+
+
 다음 세팅은 필요함. 
 - https://pmarsceill.github.io/just-the-docs/#quick-start-use-as-a-github-pages-remote-theme
 
