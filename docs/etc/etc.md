@@ -1,10 +1,10 @@
 ---
 layout: default
-title: etc
+title: etc test
 # nav_order: 2
 # has_children: true
 parent: etc index
 ---
 
 # etc
-etc
+etc directory test
