@@ -5,6 +5,11 @@ nav_order: 2
 # has_children: true
 parent: Etc
 ---
+# Navigation Structure
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
 
 # Goals
 * Seting up jekyll
