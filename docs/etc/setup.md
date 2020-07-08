@@ -11,10 +11,14 @@ parent: Etc
 ## Table of contents
 {: .no_toc .text-delta }
 
+1. TOC
+{:toc}
+---
+
 # Goals
 * Seting up jekyll
 * Apply to theme simply
-
+---
 
 # Summary
 It's very simple. 
@@ -22,6 +26,7 @@ It's very simple.
 2. Make directory & files
 
 Base theme is [just the docs](https://pmarsceill.github.io/just-the-docs/)
+---
 
 # Action
 > Assume that repository is ready.
