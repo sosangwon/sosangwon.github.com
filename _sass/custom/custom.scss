@@ -1,9 +1,11 @@
 // @import url(https://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);//google web font added
-@import url(https://fonts.googleapis.com/earlyaccess/kopubbatang.css);
+// @import url(https://fonts.googleapis.com/earlyaccess/kopubbatang.css);
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Song+Myung&display=swap');
 
 body {
-  font-family: 'KoPub Batang', -apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
+//   font-family: 'KoPub Batang', -apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
 //   font-family: -apple-system, "Nanum Gothic Coding", BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
+  font-family: 'Song Myung', 'Roboto', -apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
   font-size: inherit;
   line-height: $body-line-height;
   color: $body-text-color;
