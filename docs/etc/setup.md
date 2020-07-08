@@ -8,17 +8,36 @@ parent: Etc
 
 # Goals
 * Seting up jekyll
-* Apply to theme
+* Apply to theme simply
 
 
-# ~~Summary~~
+# Summary
+It's very simple. 
+1. Modify `_config.yml` file
+2. Make directory & files
+
+Base theme is [just the docs](https://pmarsceill.github.io/just-the-docs/)
 
 # Action
-1. _config.yml change
-    ```yml
-    remote_theme: pmarsceill/just-the-docs
-    ```
-2. 
+1. Installation 
+    - Change `_config.yml`
+        ```yml
+        remote_theme: pmarsceill/just-the-docs
+        ```
+2. Adding directory & Setup
+    > https://pmarsceill.github.io/just-the-docs/docs/navigation-structure/
+    1. Make directory 
+    2. Set up directory 
+        - Make `index.md` file in 1. and make up directory structure using below parameters.
+            - has_children, parent, grand_parent
+
+    3. Change title at top-left
+        ```yml
+        title: "Sosangwon"
+        ```
+
+> reference `_config.yml` 
+>  - https://github.com/pmarsceill/just-the-docs/blob/master/_config.yml
 
 # Gathering info 
 ## Theme
@@ -26,10 +45,11 @@ Use below
 - [just the docs](https://pmarsceill.github.io/just-the-docs/)
 
 
-## Markdown explaination
+## Unralated info
+### Markdown explaination
 - https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
 
-## Writing structure
+### Writing structure
 Education
 - https://www.monash.edu/rlo/assignment-samples/education/education-reflective-writing/reflective-writing-structure
 
