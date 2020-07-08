@@ -19,11 +19,13 @@ parent: Etc
 1. TOC
 {:toc}
 </details>
+
 ---
 
 ## Goals
 * Seting up jekyll
 * Apply to theme simply
+
 ---
 
 ## Summary
@@ -32,9 +34,11 @@ It's very simple.
 2. Make directory & files
 
 Base theme is [just the docs](https://pmarsceill.github.io/just-the-docs/)
+
 ---
 
 ## Action
+
 Assume that repository is ready.
 
 1. Installation 
@@ -58,7 +62,9 @@ Assume that repository is ready.
 >  - https://github.com/pmarsceill/just-the-docs/blob/master/_config.yml
 
 ## Gathering info 
+
 ### Theme
+
 Use below
 - [just the docs](https://pmarsceill.github.io/just-the-docs/)
 
