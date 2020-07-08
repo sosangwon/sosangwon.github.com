@@ -5,7 +5,8 @@ nav_order: 2
 # has_children: true
 parent: Etc
 ---
-# Navigation Structure
+
+# Setup jekyll
 {: .no_toc }
 
 ## Table of contents
@@ -14,6 +15,7 @@ parent: Etc
 1. TOC
 {:toc}
 ---
+
 <details open markdown="block">
   <summary>
     Table of contents
@@ -24,12 +26,12 @@ parent: Etc
 </details>
 ---
 
-# Goals
+## Goals
 * Seting up jekyll
 * Apply to theme simply
 ---
 
-# Summary
+## Summary
 It's very simple. 
 1. Modify `_config.yml` file
 2. Make directory & files
@@ -37,8 +39,8 @@ It's very simple.
 Base theme is [just the docs](https://pmarsceill.github.io/just-the-docs/)
 ---
 
-# Action
-> Assume that repository is ready.
+## Action
+Assume that repository is ready.
 
 1. Installation 
     - Change `_config.yml`
@@ -60,17 +62,17 @@ Base theme is [just the docs](https://pmarsceill.github.io/just-the-docs/)
 > reference `_config.yml` 
 >  - https://github.com/pmarsceill/just-the-docs/blob/master/_config.yml
 
-# Gathering info 
-## Theme
+## Gathering info 
+### Theme
 Use below
 - [just the docs](https://pmarsceill.github.io/just-the-docs/)
 
 
-## Unralated info
-### Markdown explaination
+### Unralated info
+#### Markdown explaination
 - https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
 
-### Writing structure
+#### Writing structure
 Education
 - https://www.monash.edu/rlo/assignment-samples/education/education-reflective-writing/reflective-writing-structure
 
@@ -79,7 +81,7 @@ Engineering
 
 
 
-## Installation
+### Installation
 - `_config.yml` 파일 설정만 하면됨.
 - `just the dosc` repository의 theme를 그대로 사용하기 때문에 local에 따로 환경을 구성할 필요가 없음. Install 없음.  
 
@@ -92,7 +94,7 @@ Engineering
 - https://pmarsceill.github.io/just-the-docs/#local-installation-use-the-gem-based-theme
 
 
-## page 구조 
+### page 구조 
 https://pmarsceill.github.io/just-the-docs/docs/navigation-structure/#pages-with-children
 
 
