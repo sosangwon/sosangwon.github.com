@@ -9,6 +9,13 @@ graph TD
 A --> B
 ```
 
+## Backlog
+- [ ] markdown에서 mermaid 사용할 수 있게 처리 필요
+- [ ] style을 mermaid homepage처럼 변경 필요
+    - https://mermaid-js.github.io/mermaid/#/
+- [ ] font size up 
+- [ ] just_the_docs clone해서 custom 필요
+
 
 ## Welcome to GitHub Pages
 
